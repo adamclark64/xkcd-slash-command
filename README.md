@@ -1,6 +1,6 @@
 # Make your own:
 * have at least node 6 installed
-* ```npm -g now```
+* ```npm i -g now```
 * ```git clone https://github.com/adamclark64/xkcd-slash-command```
 * ```now```
 * it should already be but if not, copy the url created from running ```now```
