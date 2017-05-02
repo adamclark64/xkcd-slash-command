@@ -1,4 +1,4 @@
-# To put in your own slack channel:
+# Make your own:
 * have at least node 6 installed
 * ```npm -g now```
 * ```git clone https://github.com/adamclark64/xkcd-slash-command```
