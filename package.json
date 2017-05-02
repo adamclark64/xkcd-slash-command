@@ -1,0 +1,26 @@
+{
+  "name": "xkcd-slash-command",
+  "scripts": {
+    "start": "micro index.js"
+  },
+  "dependencies": {
+    "micro": "^7.2.0",
+    "now-logs": "0.0.7",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "version": "1.0.0",
+  "description": "zeit mico slash-command for slack that gets either random or specific xkcd comics. deployed to zeit now ",
+  "main": "index.js",
+  "keywords": [
+    "zeit",
+    "now",
+    "micro",
+    "slack",
+    "xkcd",
+    "microservice",
+    "slash-command"
+  ],
+  "author": "adamclark64",
+  "license": "ISC"
+}
